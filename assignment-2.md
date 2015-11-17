@@ -1,7 +1,9 @@
 Rakesh Kumar
 ISYS 475
 Assignment # 2                             
-JMeter
+# JMeter
+
+## Introduction
 Apache JMeter is an open source software that is used in software testing to test the web applications. It is used to measure the performance and strength of the software that how much heavey load on a server or group of servers it can handle. It is also used to load the test functional behavior of the software. It supports many languages like, Java, PHP, ASP.NET. It just works at protocol level, but it is not a browser. 
 JMeter is an open source software that developed by Stefano Mazzocchi of the Apache software foundation. In the beginning it was only used to test the performance of Apache JServ but later company redesigned it to enhance the GUI and to add functional-testing capabilities. The website also offer different sponsorship programs where the company will give benefits who like to donate money to this non-profit organization.
 Most of the big companies participate in this kind of applications because they use this software to check the performance of their websites that how fast does their websites work or how many users can work on their websites at the same time. We can also say, the performance testers who check the performance of the software are mostly involve in JMeter because they have to check the overall performance of the software.
